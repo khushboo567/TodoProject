@@ -1,0 +1,13 @@
+.list {
+    border: 1px solid black;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#023020;
+    color: #ECFFDC;
+}
+
+.color{
+    background-color:#ECFFDC;
+    color:#023020;
+}
